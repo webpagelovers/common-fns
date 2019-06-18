@@ -1,0 +1,19 @@
+{
+  "name": "common-fns",
+  "version": "1.0.0",
+  "description": "一个项目公用的function集群",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webpagelovers/common-fns.git"
+  },
+  "author": "1546786921@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webpagelovers/common-fns/issues"
+  },
+  "homepage": "https://github.com/webpagelovers/common-fns#readme"
+}
