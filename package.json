@@ -1,5 +1,5 @@
 {
-  "name": "common-fns",
+  "name": "wl-utils",
   "version": "1.0.0",
   "description": "一个项目公用的function集群",
   "main": "src/index.js",
